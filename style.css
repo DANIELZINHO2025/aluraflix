@@ -39,3 +39,10 @@ footer {
     width:100%;
 
 }
+
+footer p{
+    text-aling: center;
+    font-size: 14px;
+    mergin-top: 3px;
+
+}
